@@ -1,4 +1,4 @@
-# JSON_Server_Deployment
+# JSON Server Deployment
 
 By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on render.com
 
